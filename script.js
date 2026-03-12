@@ -270,8 +270,8 @@ const initProjectModal = () => {
         'Inventory Management System': {
             title: 'Inventory Management System',
             description: 'A comprehensive system for managing sales, inventory, and customer transactions efficiently.',
-            details: 'This Java-based application uses MySQL for data persistence and provides real-time inventory tracking, customer management, and sales reporting features.',
-            technologies: ['Java', 'MySQL', 'Swing GUI'],
+            details: 'This Web-Based application provides real-time inventory tracking, customer management, and sales reporting features.',
+            technologies: ['Php', 'MySQL', ],
             features: ['Real-time updates', 'Transaction management', 'Reporting', 'User authentication']
         },
         'Payroll System': {
@@ -281,12 +281,12 @@ const initProjectModal = () => {
             technologies: ['Java', 'MySQL'],
             features: ['Salary calculation', 'Tax management', 'Employee records', 'Payroll reports']
         },
-        'Ordering System': {
-            title: 'Ordering System',
-            description: 'Real-time tracking and inventory updates for seamless ordering and fulfillment.',
-            details: 'An integrated ordering platform with real-time inventory synchronization, order tracking, and automated notifications.',
-            technologies: ['C++', 'MySQL'],
-            features: ['Order tracking', 'Inventory sync', 'Real-time updates', 'Notifications']
+        'Blogging System': {
+            title: 'Blogging System',
+            description: 'A blog website is a platform where users can publish and read articles on various topics.',
+            details: 'A comprehensive blogging platform with user-friendly interface, content management, and social sharing features.',
+            technologies: ['Python', 'Django'],
+            features: ['Read articles', 'Publish content', 'Social sharing', 'User management']
         },
         'HEED: Psychological Games': {
             title: 'HEED: Psychological Games',
