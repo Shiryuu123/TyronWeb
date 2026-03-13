@@ -267,7 +267,7 @@ const initProjectModal = () => {
     if (!DOM.projectModal) return;
 
     const projectDetails = {
-        'Inventory Management System': {
+        'Inventory Management System (BakeHub)': {
             title: 'Inventory Management System',
             description: 'A comprehensive system for managing sales, inventory, and customer transactions efficiently.',
             details: 'This Web-Based application provides real-time inventory tracking, customer management, and sales reporting features.',
@@ -281,7 +281,7 @@ const initProjectModal = () => {
             technologies: ['Java', 'MySQL'],
             features: ['Salary calculation', 'Tax management', 'Employee records', 'Payroll reports']
         },
-        'Blogging System': {
+        'Blogging System (SuVida Blog)': {
             title: 'Blogging System',
             description: 'A blog website is a platform where users can publish and read articles on various topics.',
             details: 'A comprehensive blogging platform with user-friendly interface, content management, and social sharing features.',
